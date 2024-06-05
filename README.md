@@ -1,1 +1,5 @@
-# Data-Mining-DL
+# Crop Disease Prediction 
+
+The major agricultural products in India are rice, wheat, pulses, and spices. As our population is increasing rapidly the demand for agriculture products also increasing alarmingly. A huge amount of data is incremented from various field of agriculture. Analysis of this data helps in predicting the crop yield, analyzing soil quality, predicting disease in a plant, and how meteorological factor affects crop productivity. 
+
+Crop protection plays a vital role in maintaining agriculture product. Pathogen, pest, weed, and animals are responsible for the productivity loss in agriculture product. Machine learning techniques like Random Forest, Bayesian Network, Decision Tree, Support Vector Machine etc, help in automatic detection of plant disease from visual symptoms in the plant. A survey of different existing machine learning techniques used for plant disease prediction was presented in this project. Automatic detection of disease in plant helps in early diagnosis and prevention of disease which leads to an increase in agriculture productivity.
