@@ -19,6 +19,39 @@ Crop protection plays a vital role in maintaining agriculture product. Pathogen,
 
 ![image](https://github.com/SriVaishnaviM/Data-Mining-DL/assets/145308407/c20772b9-3f21-4adc-b49c-6c6dac5f6f9a)
 
+3. In the screen below after applying normalization we are just displaying one random image from dataset to check whether images loaded and process properly or not and now you close above image to get below screen
+
+![image](https://github.com/SriVaishnaviM/Data-Mining-DL/assets/145308407/15878a4a-4bc4-459b-a62d-c4c77b7294e2)
+
+4. All images process successfully and now dataset images are ready and now click on ‘Build Crop Disease Recognition Model’ button to build CNN model
+
+![image](https://github.com/SriVaishnaviM/Data-Mining-DL/assets/145308407/ca49ce84-841e-41dd-9d80-00ba8e3fc423)
+
+5. The result below shows the CNN model built and accuracy is displayed.
+
+![image](https://github.com/SriVaishnaviM/Data-Mining-DL/assets/145308407/787258ea-768f-4f5e-96bc-b64323848f4b)
+
+6. We have used CONV2D, MAXPOOLING, FLATTEN and DENSE layer to build crop disease recognition model and RELU details you can see in code. Now model is ready and now click on ‘Upload Test Image & Predict Disease’ button to upload any test image and then application will predict disease or healthy from that image
+
+![image](https://github.com/SriVaishnaviM/Data-Mining-DL/assets/145308407/53149436-e6eb-4a3f-9509-93ef261f02f4)
+
+7. Select and upload an image file and then click on ‘Open’ button to get below prediction result. In the example below, image "1.jpg" is selected and potato leaf predicted as healthy.
+
+![image](https://github.com/SriVaishnaviM/Data-Mining-DL/assets/145308407/1283b0ad-316d-43d7-9ab4-91e76ed960eb)
+
+8. In the graph x-axis represents epoch/iterations and y-axis represents accuracy/loss and green line represents accuracy and blue line represents loss and from above graph we can see with each increasing iteration accuracy is getting better and better and loss getting decrease
+
+![image](https://github.com/SriVaishnaviM/Data-Mining-DL/assets/145308407/5ba1fb99-b215-4050-86f1-0bac70b8013e)
+
+
+
+
+
+   
+
+
+
+
 
 
 
